@@ -3,13 +3,15 @@
    "email":"manalkiyani.gmail.com",
    "website":"https://reactnative.dev/movies.json",
    "address":"Islamabad I8-2",
-   "profile":"https://www.google.com/search?q=user+icon&tbm=isch&chips=q:user+icon,g_1:avatar:0VDqzZbGReI%3D&hl=en&sa=X&ved=2ahUKEwjitKHQ3aL4AhUQmhoKHQ1oDcIQ4lYoAXoECAEQHg#imgrc=aHMJkkMhk1KwkM",
+   "profile":"./pic.png",
    "sites":[
       {
-         "fb":"https://www.facebook.com/"
+         "fb":"https://www.facebook.com/",
+         "id" :"1"
       },
       {
-         "twitter":"https://twitter.com/"
+         "twitter":"https://twitter.com/",
+         "id":"2"
       }
    ]
 }
